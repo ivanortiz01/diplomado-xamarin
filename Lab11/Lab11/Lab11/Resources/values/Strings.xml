@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Lab11</string>
+  <string name="StartActivity_Text">Iniciar Segunda Actividad</string>
+  <string name="ClickCounter_Text">Contador de Clicks: %1$d.</string>
+</resources>

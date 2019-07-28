@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Lab09</string>
+    <string name="NombreUsuario">Nombre del Usuario</string>
+    <string name="Status">Estatus</string>
+    <string name="Codigo">Código</string>
+</resources>

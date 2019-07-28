@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Lab14</string>
+  <string name="correo">Correo:</string>
+  <string name="password">Password:</string>
+  <string name="validar">Validar</string>
+  <string name="ResutadoValidacion">Resultado Autenticación</string>
+  <string name="ErrorValidarActividadTitulo">Error en Validar Actividad</string>
+  <string name="ErrorValidarActividadMensaje">Los campos de Correo y Contraseña son obligatorios, no pueden estar vacios.</string>
+  
+</resources>
